@@ -22,8 +22,10 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
+    "Gaussian Splatting": 
+        filters: ["Gaussian Splatting"]
     "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
+        filters: ["SLAM", "Visual Odometry", "LiDAR Odometry"]
     "SFM":
         filters: ["SFM", "Structure from Motion"]
     "Visual Localization":
