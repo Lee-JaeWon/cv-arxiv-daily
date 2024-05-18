@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.17
+## Updated on 2024.05.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -468,7 +468,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20240517>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240518>back to top</a>)</p>
 
 ## SFM
 
@@ -632,7 +632,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20240517>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240518>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1291,7 +1291,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20240517>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240518>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1500,7 +1500,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20240517>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240518>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1701,12 +1701,14 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20240517>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240518>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models**|Xianzheng Ma et.al.|[2405.10255](http://arxiv.org/abs/2405.10255)|null|
+|**2024-05-15**|**From NeRFs to Gaussian Splats, and Back**|Siming He et.al.|[2405.09717](http://arxiv.org/abs/2405.09717)|**[link](https://github.com/grasp-lyrl/nerftogsandback)**|
 |**2024-05-14**|**Dynamic NeRF: A Review**|Jinwei Lin et.al.|[2405.08609](http://arxiv.org/abs/2405.08609)|null|
 |**2024-05-13**|**Synergistic Integration of Coordinate Network and Tensorial Feature for Improving Neural Radiance Fields from Sparse Inputs**|Mingyu Kim et.al.|[2405.07857](http://arxiv.org/abs/2405.07857)|**[link](https://github.com/mingyukim87/synergynerf)**|
 |**2024-05-12**|**Point Resampling and Ray Transformation Aid to Editable NeRF Models**|Zhenyang Li et.al.|[2405.07306](http://arxiv.org/abs/2405.07306)|null|
@@ -2731,12 +2733,14 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20240517>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240518>back to top</a>)</p>
 
 ## Gaussian Splatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-16**|**GS-Planner: A Gaussian-Splatting-based Planning Framework for Active High-Fidelity Reconstruction**|Rui Jin et.al.|[2405.10142](http://arxiv.org/abs/2405.10142)|null|
+|**2024-05-15**|**From NeRFs to Gaussian Splats, and Back**|Siming He et.al.|[2405.09717](http://arxiv.org/abs/2405.09717)|**[link](https://github.com/grasp-lyrl/nerftogsandback)**|
 |**2024-05-13**|**GaussianVTON: 3D Human Virtual Try-ON via Multi-Stage Gaussian Splatting Editing with Image Prompting**|Haodong Chen et.al.|[2405.07472](http://arxiv.org/abs/2405.07472)|null|
 |**2024-05-11**|**Direct Learning of Mesh and Appearance via 3D Gaussian Splatting**|Ancheng Lin et.al.|[2405.06945](http://arxiv.org/abs/2405.06945)|null|
 |**2024-05-10**|**OneTo3D: One Image to Re-editable Dynamic 3D Model and Video Generation**|Jinwei Lin et.al.|[2405.06547](http://arxiv.org/abs/2405.06547)|**[link](https://github.com/lin-jinwei/OneTo3D)**|
@@ -2910,7 +2914,7 @@
 |**2024-02-05**|**SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**|Mingrui Li et.al.|[2402.03246](http://arxiv.org/abs/2402.03246)|null|
 |**2024-02-06**|**GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**|Joanna Waczyńska et.al.|[2402.01459](http://arxiv.org/abs/2402.01459)|**[link](https://github.com/waczjoan/gaussian-mesh-splatting)**|
 
-<p align=right>(<a href=#updated-on-20240517>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240518>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
