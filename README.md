@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.02
+## Updated on 2024.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -468,7 +468,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20240602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240603>back to top</a>)</p>
 
 ## SFM
 
@@ -632,7 +632,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20240602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240603>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1291,7 +1291,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20240602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240603>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1500,7 +1500,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20240602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240603>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1701,7 +1701,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20240602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240603>back to top</a>)</p>
 
 ## NeRF
 
@@ -1709,10 +1709,10 @@
 |---|---|---|---|---|
 |**2024-05-30**|**$\textit{S}^3$ Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**|Nan Huang et.al.|[2405.20323](http://arxiv.org/abs/2405.20323)|**[link](https://github.com/nnanhuang/s3gaussian)**|
 |**2024-05-30**|**TetSphere Splatting: Representing High-Quality Geometry with Lagrangian Volumetric Meshes**|Minghao Guo et.al.|[2405.20283](http://arxiv.org/abs/2405.20283)|null|
-|**2024-05-30**|**NeRF View Synthesis: Subjective Quality Assessment and Objective Metrics Evaluation**|Pedro Martin et.al.|[2405.20078](http://arxiv.org/abs/2405.20078)|null|
+|**2024-05-31**|**NeRF View Synthesis: Subjective Quality Assessment and Objective Metrics Evaluation**|Pedro Martin et.al.|[2405.20078](http://arxiv.org/abs/2405.20078)|null|
 |**2024-05-30**|**IReNe: Instant Recoloring in Neural Radiance Fields**|Alessio Mazzucchelli et.al.|[2405.19876](http://arxiv.org/abs/2405.19876)|null|
 |**2024-05-30**|**HINT: Learning Complete Human Neural Representations from Limited Viewpoints**|Alessandro Sanvito et.al.|[2405.19712](http://arxiv.org/abs/2405.19712)|null|
-|**2024-05-30**|**View-Consistent Hierarchical 3D SegmentationUsing Ultrametric Feature Fields**|Haodi He et.al.|[2405.19678](http://arxiv.org/abs/2405.19678)|null|
+|**2024-05-30**|**View-Consistent Hierarchical 3D SegmentationUsing Ultrametric Feature Fields**|Haodi He et.al.|[2405.19678](http://arxiv.org/abs/2405.19678)|**[link](https://github.com/hardyho/ultrametric_feature_fields)**|
 |**2024-05-29**|**Neural Radiance Fields for Novel View Synthesis in Monocular Gastroscopy**|Zijie Jiang et.al.|[2405.18863](http://arxiv.org/abs/2405.18863)|null|
 |**2024-05-29**|**NeRF On-the-go: Exploiting Uncertainty for Distractor-free NeRFs in the Wild**|Weining Ren et.al.|[2405.18715](http://arxiv.org/abs/2405.18715)|**[link](https://github.com/cvg/nerf-on-the-go)**|
 |**2024-05-28**|**Self-supervised Pre-training for Transferable Multi-modal Perception**|Xiaohao Xu et.al.|[2405.17942](http://arxiv.org/abs/2405.17942)|null|
@@ -2766,14 +2766,14 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20240602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240603>back to top</a>)</p>
 
 ## Gaussian Splatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-30**|**$\textit{S}^3$ Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**|Nan Huang et.al.|[2405.20323](http://arxiv.org/abs/2405.20323)|**[link](https://github.com/nnanhuang/s3gaussian)**|
-|**2024-05-30**|**A Pixel Is Worth More Than One 3D Gaussians in Single-View 3D Reconstruction**|Jianghao Shen et.al.|[2405.20310](http://arxiv.org/abs/2405.20310)|null|
+|**2024-05-31**|**A Pixel Is Worth More Than One 3D Gaussians in Single-View 3D Reconstruction**|Jianghao Shen et.al.|[2405.20310](http://arxiv.org/abs/2405.20310)|null|
 |**2024-05-29**|**EvaGaussians: Event Stream Assisted Gaussian Splatting from Blurry Images**|Wangbo Yu et.al.|[2405.20224](http://arxiv.org/abs/2405.20224)|null|
 |**2024-05-30**|**Object-centric Reconstruction and Tracking of Dynamic Unknown Objects using 3D Gaussian Splatting**|Kuldeep R Barad et.al.|[2405.20104](http://arxiv.org/abs/2405.20104)|null|
 |**2024-05-30**|**PLA4D: Pixel-Level Alignments for Text-to-4D Gaussian Splatting**|Qiaowei Miao et.al.|[2405.19957](http://arxiv.org/abs/2405.19957)|null|
@@ -2781,7 +2781,7 @@
 |**2024-05-30**|**Uncertainty-guided Optimal Transport in Depth Supervised Sparse-View 3D Gaussian**|Wei Sun et.al.|[2405.19657](http://arxiv.org/abs/2405.19657)|null|
 |**2024-05-30**|**TAMBRIDGE: Bridging Frame-Centered Tracking and 3D Gaussian Splatting for Enhanced SLAM**|Peifeng Jiang et.al.|[2405.19614](http://arxiv.org/abs/2405.19614)|null|
 |**2024-05-29**|**NPGA: Neural Parametric Gaussian Avatars**|Simon Giebenhain et.al.|[2405.19331](http://arxiv.org/abs/2405.19331)|null|
-|**2024-05-29**|**LP-3DGS: Learning to Prune 3D Gaussian Splatting**|Zhaoliang Zhang et.al.|[2405.18784](http://arxiv.org/abs/2405.18784)|null|
+|**2024-05-29**|**LP-3DGS: Learning to Prune 3D Gaussian Splatting**|Zhaoliang Zhang et.al.|[2405.18784](http://arxiv.org/abs/2405.18784)|**[link](https://github.com/dexgfsdfdsg/LP-3DGS)**|
 |**2024-05-28**|**GFlow: Recovering 4D World from Monocular Video**|Shizun Wang et.al.|[2405.18426](http://arxiv.org/abs/2405.18426)|null|
 |**2024-05-28**|**3DitScene: Editing Any Scene via Language-guided Disentangled Gaussian Splatting**|Qihang Zhang et.al.|[2405.18424](http://arxiv.org/abs/2405.18424)|null|
 |**2024-05-30**|**3D StreetUnveiler with Semantic-Aware 2DGS**|Jingwei Xu et.al.|[2405.18416](http://arxiv.org/abs/2405.18416)|null|
@@ -3002,7 +3002,7 @@
 |**2024-02-05**|**SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**|Mingrui Li et.al.|[2402.03246](http://arxiv.org/abs/2402.03246)|null|
 |**2024-02-06**|**GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**|Joanna Waczyńska et.al.|[2402.01459](http://arxiv.org/abs/2402.01459)|**[link](https://github.com/waczjoan/gaussian-mesh-splatting)**|
 
-<p align=right>(<a href=#updated-on-20240602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240603>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
