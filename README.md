@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.17
+## Updated on 2024.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -468,7 +468,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240618>back to top</a>)</p>
 
 ## SFM
 
@@ -632,7 +632,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240618>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1291,7 +1291,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240618>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1500,7 +1500,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240618>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1701,12 +1701,17 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240618>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting**|Alex Hanson et.al.|[2406.10219](http://arxiv.org/abs/2406.10219)|null|
+|**2024-06-14**|**GaussianSR: 3D Gaussian Super-Resolution with 2D Diffusion Priors**|Xiqian Yu et.al.|[2406.10111](http://arxiv.org/abs/2406.10111)|null|
+|**2024-06-14**|**OrientDream: Streamlining Text-to-3D Generation with Explicit Orientation Control**|Yuzhong Huang et.al.|[2406.10000](http://arxiv.org/abs/2406.10000)|null|
+|**2024-06-14**|**dGrasp: NeRF-Informed Implicit Grasp Policies with Supervised Optimization Slopes**|Gergely Sóti et.al.|[2406.09939](http://arxiv.org/abs/2406.09939)|null|
+|**2024-06-14**|**RaNeuS: Ray-adaptive Neural Surface Reconstruction**|Yida Wang et.al.|[2406.09801](http://arxiv.org/abs/2406.09801)|**[link](https://github.com/wangyida/ra-neus)**|
 |**2024-06-13**|**Rethinking Score Distillation as a Bridge Between Image Distributions**|David McAllister et.al.|[2406.09417](http://arxiv.org/abs/2406.09417)|null|
 |**2024-06-13**|**Preserving Identity with Variational Score for General-purpose 3D Editing**|Duong H. Le et.al.|[2406.08953](http://arxiv.org/abs/2406.08953)|null|
 |**2024-06-13**|**Neural NeRF Compression**|Tuan Pham et.al.|[2406.08943](http://arxiv.org/abs/2406.08943)|null|
@@ -2804,12 +2809,16 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240618>back to top</a>)</p>
 
 ## Gaussian Splatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting**|Alex Hanson et.al.|[2406.10219](http://arxiv.org/abs/2406.10219)|null|
+|**2024-06-14**|**GaussianSR: 3D Gaussian Super-Resolution with 2D Diffusion Priors**|Xiqian Yu et.al.|[2406.10111](http://arxiv.org/abs/2406.10111)|null|
+|**2024-06-14**|**GradeADreamer: Enhanced Text-to-3D Generation Using Gaussian Splatting and Multi-View Diffusion**|Trapoom Ukarapol et.al.|[2406.09850](http://arxiv.org/abs/2406.09850)|**[link](https://github.com/trapoom555/gradeadreamer)**|
+|**2024-06-14**|**Unified Gaussian Primitives for Scene Representation and Rendering**|Yang Zhou et.al.|[2406.09733](http://arxiv.org/abs/2406.09733)|null|
 |**2024-06-13**|**Modeling Ambient Scene Dynamics for Free-view Synthesis**|Meng-Li Shih et.al.|[2406.09395](http://arxiv.org/abs/2406.09395)|null|
 |**2024-06-13**|**GGHead: Fast and Generalizable 3D Gaussian Heads**|Tobias Kirschstein et.al.|[2406.09377](http://arxiv.org/abs/2406.09377)|null|
 |**2024-06-14**|**AV-GS: Learning Material and Geometry Aware Priors for Novel View Acoustic Synthesis**|Swapnil Bhosale et.al.|[2406.08920](http://arxiv.org/abs/2406.08920)|null|
@@ -3074,7 +3083,7 @@
 |**2024-02-05**|**SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**|Mingrui Li et.al.|[2402.03246](http://arxiv.org/abs/2402.03246)|null|
 |**2024-02-06**|**GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**|Joanna Waczyńska et.al.|[2402.01459](http://arxiv.org/abs/2402.01459)|**[link](https://github.com/waczjoan/gaussian-mesh-splatting)**|
 
-<p align=right>(<a href=#updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240618>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
