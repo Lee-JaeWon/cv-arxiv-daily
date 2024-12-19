@@ -1688,11 +1688,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**GraphAvatar: Compact Head Avatars with GNN-Generated 3D Gaussians**|Xiaobao Wei et.al.|[2412.13983](http://arxiv.org/abs/2412.13983)|**[link](https://github.com/ucwxb/graphavatar)**|
 |**2024-12-17**|**EOGS: Gaussian Splatting for Earth Observation**|Luca Savant Aira et.al.|[2412.13047](http://arxiv.org/abs/2412.13047)|null|
-|**2024-12-17**|**Optimize the Unseen -- Fast NeRF Cleanup with Free Space Prior**|Leo Segre et.al.|[2412.12772](http://arxiv.org/abs/2412.12772)|null|
+|**2024-12-18**|**Optimize the Unseen -- Fast NeRF Cleanup with Free Space Prior**|Leo Segre et.al.|[2412.12772](http://arxiv.org/abs/2412.12772)|null|
 |**2024-12-17**|**Towards a Training Free Approach for 3D Scene Editing**|Vivek Madhavaram et.al.|[2412.12766](http://arxiv.org/abs/2412.12766)|null|
 |**2024-12-16**|**GS-ProCams: Gaussian Splatting-based Projector-Camera Systems**|Qingyue Deng et.al.|[2412.11762](http://arxiv.org/abs/2412.11762)|null|
-|**2024-12-16**|**Sequence Matters: Harnessing Video Models in Super-Resolution**|Hyun-kyu Ko et.al.|[2412.11525](http://arxiv.org/abs/2412.11525)|null|
+|**2024-12-18**|**Sequence Matters: Harnessing Video Models in 3D Super-Resolution**|Hyun-kyu Ko et.al.|[2412.11525](http://arxiv.org/abs/2412.11525)|null|
 |**2024-12-16**|**VRVVC: Variable-Rate NeRF-Based Volumetric Video Compression**|Qiang Hu et.al.|[2412.11362](http://arxiv.org/abs/2412.11362)|null|
 |**2024-12-13**|**NeRF-Texture: Synthesizing Neural Radiance Field Textures**|Yi-Hua Huang et.al.|[2412.10004](http://arxiv.org/abs/2412.10004)|null|
 |**2024-12-13**|**Sharpening Your Density Fields: Spiking Neuron Aided Fast Geometry Learning**|Yi Gu et.al.|[2412.09881](http://arxiv.org/abs/2412.09881)|null|
@@ -3104,6 +3105,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**GraphAvatar: Compact Head Avatars with GNN-Generated 3D Gaussians**|Xiaobao Wei et.al.|[2412.13983](http://arxiv.org/abs/2412.13983)|**[link](https://github.com/ucwxb/graphavatar)**|
+|**2024-12-18**|**GAGS: Granularity-Aware Feature Distillation for Language Gaussian Splatting**|Yuning Peng et.al.|[2412.13654](http://arxiv.org/abs/2412.13654)|null|
+|**2024-12-18**|**4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching**|Fernando Amodeo et.al.|[2412.13639](http://arxiv.org/abs/2412.13639)|**[link](https://github.com/robotics-upo/gaussian-rio)**|
+|**2024-12-18**|**Turbo-GS: Accelerating 3D Gaussian Fitting for High-Quality Radiance Fields**|Tao Lu et.al.|[2412.13547](http://arxiv.org/abs/2412.13547)|null|
+|**2024-12-18**|**Vivar: A Generative AR System for Intuitive Multi-Modal Sensor Data Presentation**|Yunqi Guo et.al.|[2412.13509](http://arxiv.org/abs/2412.13509)|null|
 |**2024-12-17**|**Real-time Free-view Human Rendering from Sparse-view RGB Videos using Double Unprojected Textures**|Guoxing Sun et.al.|[2412.13183](http://arxiv.org/abs/2412.13183)|null|
 |**2024-12-17**|**EOGS: Gaussian Splatting for Earth Observation**|Luca Savant Aira et.al.|[2412.13047](http://arxiv.org/abs/2412.13047)|null|
 |**2024-12-17**|**4DRGS: 4D Radiative Gaussian Splatting for Efficient 3D Vessel Reconstruction from Sparse-View Dynamic DSA Images**|Zhentao Liu et.al.|[2412.12919](http://arxiv.org/abs/2412.12919)|**[link](https://github.com/ShanghaiTech-IMPACT/4DRGS)**|
